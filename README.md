@@ -1,10 +1,10 @@
 # myWebN09 application : 
 
-I. Thành viên 
+## I. Thành viên 
 
 1.VŨ MINH NGUYỆT - 23010129
 
-II. MỤC ĐÍCH DỰ ÁN 
+## II. MỤC ĐÍCH DỰ ÁN 
 
 Dự án của bạn là một web quản lý phòng khám / bệnh viện nhỏ, có các chức năng:
 
@@ -22,7 +22,7 @@ Dự án của bạn là một web quản lý phòng khám / bệnh viện nhỏ
 
 Hệ thống này xây dựng theo chuẩn Laravel MVC — nghĩa là Model (dữ liệu), View (giao diện), Controller (xử lý logic) được tách riêng.
 
-III. CÁCH SỬ DỤNG DỰ ÁN
+## III. CÁCH SỬ DỤNG DỰ ÁN
 
  1. Chạy server
 
