@@ -1,7 +1,7 @@
 # myWebN09 application : Dự án Laravel Food Store
 ## I. Thành viên
  1. Vũ Minh Nguyệt - MSSV : 23010129
- 2.  Trung     - MSSV : 23010591
+ 2. Nguyễn Chí Trung - MSSV : 23010591
     
 ## II. Tính năng
 + Trang chủ hiện đại với phần hero, sản phẩm nổi bật, giới thiệu, liên hệ
